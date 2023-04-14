@@ -25,7 +25,7 @@ COVID-19 detection using Artificial Intelligence and Computer-Aided Diagnosis ha
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/<your-username>/majority-voting.git`
+1. Clone the repository: `git clone https://github.com/pradhan94300/juryEnsemble.git`
 2. Place your test data and labels in `data/test_data.npy` and `data/test_labels.npy`, respectively.
 3. Place your saved models in the `models` directory.
 4. Run the script: `python jury.py`
